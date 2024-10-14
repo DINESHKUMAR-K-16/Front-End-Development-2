@@ -127,3 +127,21 @@ html ::-webkit-scrollbar{
     transition: 0.5s;
     cursor: pointer;
 }
+#about-btn:hover{
+    background-color: #b2744c;
+    color: white;
+}
+@media screen and (max-width:982px){
+    #about p{
+        font-size: 8px;
+    }
+}
+@media screen and(max-width:766px) {
+    #about p{
+        font-size: 15px;
+    }
+    #about{
+        height: 120vh;
+    }
+    
+}
