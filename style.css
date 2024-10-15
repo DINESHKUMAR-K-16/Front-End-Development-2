@@ -232,3 +232,16 @@ html ::-webkit-scrollbar{
 #container3{
     margin-top: 30px;
 }
+h3{
+    text-align: center;
+    color: #b2744c;
+    font-size: 23px;
+}
+p{
+    color: #b2744c;
+    padding-top: 10px;
+}
+#product p span{
+    float: right;
+    cursor: pointer;
+}
