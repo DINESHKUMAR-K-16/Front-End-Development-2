@@ -245,3 +245,28 @@ p{
     float: right;
     cursor: pointer;
 }
+
+#gallary{  
+    width: 100%;
+    height: auto;
+}
+.heading5{
+    text-align: center;
+    color: black;
+    margin-top: 100px;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.heading5 span{
+    color: #b2744c;
+}
+.card{
+    border-radius: 10px;
+    cursor: pointer; 
+}
+.card img{
+    border-radius: 10px;
+       
+}
+
