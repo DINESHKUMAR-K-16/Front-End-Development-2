@@ -341,4 +341,9 @@ p{
     }
     
 }
-
+@media screen  and (max-width:400px){
+    #contact input{
+        width: 250px;
+    }
+    
+}
